@@ -1,0 +1,3 @@
+userprincipalname,firstname,lastname,displayname,samaccountname,title,department,manager,description,email,company,name,office,path,password,telephone
+chris.turner,Chris,Turner,Chris Turner,chris.turner,"Vice President, Carrier Operations",Corporate,colin.smith,"Vice President, Carrier Operations",chris.turner@icg360.com,,chris turner,Jersey City,"OU=JERSEY CITY,OU=ICS USERS,DC=ICS,DC=Local",1nsight@CT!,
+brian.haler,Brian,Haler,Brian Haler,brian.haler,Jr. Platform Engineer,Infrastructure,jason.baldwin,Jr. Platform Engineer,brian.haler@icg360.com,,Brian Haler,,"OU=CONTRACTORS,OU=ICS USERS,DC=ICS,DC=Local",1nsight@BH!,
